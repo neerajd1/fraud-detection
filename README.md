@@ -1,1 +1,1 @@
-# seller-web-app
+# Fraud detection application
